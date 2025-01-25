@@ -11,4 +11,4 @@ Internship Tasks For Week 1
 
 -All the code in Github
 
--Folder week1 and provide as individual project folder 
+-Folder Week 1 and provide as individual project folder 
